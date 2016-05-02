@@ -1,0 +1,1 @@
+Implements shell pipeline cmd1|cmd2|...|cmdn
